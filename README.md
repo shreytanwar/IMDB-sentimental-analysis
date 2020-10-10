@@ -2,6 +2,7 @@
 Sentimental Analysis over IMDb review dataset
 
 Used Keras  Model with Dense and Dropout layers
+
 Trained for 5 epochs
 
 * Loss over epochs
